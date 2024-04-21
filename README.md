@@ -7,7 +7,7 @@ A machine Learning Project aimed at predicting the aggregate rating of restauran
 
 3-Model Evaluation: Assessed the performance of the models using regression metrics like mean squared error and R-squared on the testing data, ensuring the model's effectivness and reliability.
 
-4-Result Interpretation: Analyzed the model's results to understand the most influential features affecting restaurant ratings, providing valuable insights for stakeholders.
+4-Result Interpretation: Analyzed the model's results to understand the most influential features affecting restaurant ratings, providing valuable insights for stakeholders.Overall, by understanding the influence of features such as online delivery, price range, and country code etc.. on aggregate ratings, stakeholders can make informed decisions to enhance the dining experience, attract more customers, and improve overall business performance. These insights enable stakeholders to adapt their strategies to meet evolving consumer preferences and market dynamics, ultimately driving greater success in the restaurant industry.
 
 Based on the evaluation results of the three models:
 
